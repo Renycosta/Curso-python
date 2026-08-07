@@ -16,6 +16,6 @@ print(0.0, -1.5) # float
 
 # A função type mostra o tipo que o Python
 # inferiu ao valor
-print(type('Otávio'))
+print(type('Reny'))
 print(type(1))
 print(type(1.2))
